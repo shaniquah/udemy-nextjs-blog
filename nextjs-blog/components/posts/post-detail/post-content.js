@@ -21,7 +21,8 @@ export default function PostContent(props) {
     //       height={300}
     //     />
     //   );
-    // },
+    // }
+    
     p(paragraph) {
       const { node } = paragraph;
 
@@ -45,7 +46,7 @@ export default function PostContent(props) {
 
     code(code) {
       const { className, children } = code;
-      const language = className.split('-')[1]; // className is something like language-js => We need the "js" part here
+      const language = className.split('-')[1];
       return (
         <SyntaxHighlighter
           style={atomDark}
