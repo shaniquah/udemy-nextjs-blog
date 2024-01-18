@@ -1,3 +1,12 @@
+---
+title: The First Official Certificate
+excerpt: Most people believe having great passion for something makes everything about it easier. I learnt the hard way it isn't the case!
+image: callousing-my-mind-thumb.png
+isFeatured: true
+date: '2023-10-30'
+---
+
+
 # The first certificate 
 
 At this point I am more than ecstatic about having acquired my certificate of completion in Software Engineering
