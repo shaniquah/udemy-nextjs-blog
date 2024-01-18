@@ -1,6 +1,6 @@
 # Next.js & React.js Blog Project
 
-Welcome to the Next.js & React.js Blog Project! This project is a comprehensive guide and implementation of building a fully functional blog from scratch using Next.js and React.js created from following a Udemy course on NextJS & React. Whether you're a beginner or an experienced developer, you'll find everything you need to create a robust and dynamic blog application.
+Welcome to my blog! Where I share my experiences as a software engineer graduate from the beginning of my journey through to daily updates. I post mainly about Javascript Essentials and personal experiences on topics. I hope you enjoy joining this adventure with me! 
 
 ## Project Overview
 
@@ -33,7 +33,7 @@ If you'd like to contribute to this project or suggest improvements, please feel
 
 ## Acknowledgments
 
-This project is made possible by the contributions of the open-source community and the wealth of knowledge shared by developers around the world. Thank you for being a part of this journey.
+This project is made possible by the contributions of the open-source community and the wealth of knowledge shared by developers around the world. I learned the tech stack via a udemy course on Next.js and React, and built this project as an essential part of my learning journey. Thank you for being a part of this journey.
 
 Happy coding and enjoy building your blog with Next.js and React.js! 🚀
 
