@@ -21,3 +21,5 @@ I had a misinformed interpretation of what the job hunting experience would be l
 ### Hope
 
 Hope soon to be shattered by realization rather than clarity. The pain of uncertainty and angst only added to the discomfort of waiting, and patience wore much thinner than paper.
+
+![My Software Engineering certificate from CodeSpace Academy](SEcertificate.png)
